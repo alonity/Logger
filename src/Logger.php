@@ -8,7 +8,7 @@
  *
  * @copyright © 2021 Alonity
  *
- * @package alonity\eventhandler
+ * @package alonity\logger
  *
  * @license MIT
  *
